@@ -1,0 +1,6 @@
+#LAB2
+--> subimos ficheros module.xml y standalone.xml
+git add
+git status
+git commit -m "Descripcion"
+git push origin master
